@@ -1,2 +1,2 @@
-# cinta roja
-# cintablanca
+# ciclo for
+
